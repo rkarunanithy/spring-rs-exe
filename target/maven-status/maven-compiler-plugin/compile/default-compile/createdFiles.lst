@@ -1,5 +1,6 @@
-com/fairwarning/rest/assignment/App.class
+com/fairwarning/rest/assignment/controller/ListEndPoints.class
 com/fairwarning/rest/assignment/controller/GreetingController.class
+com/fairwarning/rest/assignment/App.class
 com/fairwarning/rest/assignment/model/Visitor.class
 com/fairwarning/rest/assignment/controller/MainController.class
 com/fairwarning/rest/assignment/model/ApiInfo.class
